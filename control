@@ -1,0 +1,10 @@
+Package: org.h2co3.xspfkit
+Version: 0.1
+Name: XSPFKit
+Section: Development
+Architecture: iphoneos-arm
+Author: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
+Maintainer: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
+Depiction: http://github.com/H2CO3/XSPFKit
+Description: Opensource iOS framework to support the XML Shareable Playlist Format.
+

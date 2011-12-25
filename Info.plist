@@ -1,0 +1,13 @@
+<plist>
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.h2co3.xspfkit</string>
+	<key>CFBundleExecutable</key>
+	<string>XSPFKit</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+</dict>
+</plist>
+
